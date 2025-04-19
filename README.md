@@ -1,6 +1,6 @@
-# Deep Learning Final Project
+# Deep Learning Final Project: Game of Life
 
-TODO: add description
+This project aims to use Deep Learning models to learn the rules of [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## Environment setup:
 
