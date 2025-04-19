@@ -39,6 +39,8 @@ pip install -r requirements.txt
 pip install "numpy<2"
 pip install tensorflow==2.10.0
 pip install matplotlib
+pip install seaborn
+pip install scipy
 # and more..
 ```
 
